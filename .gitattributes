@@ -1,0 +1,2 @@
+# TI linker command file, not a batch script
+*.cmd linguist-language=Linker Script linguist-detectable=false
